@@ -1,5 +1,13 @@
 ### WalletHub Angular Tests
 
+Just Clone the Repo
+
+Run npm i
+npm start
+
+------------------------------
+
+
 To begin, first run npm install to make sure all dependencies are ready.
 
 There are 6 tests, each under /test-{word number} route (ex : /test-one; /test-two; /test-three)
